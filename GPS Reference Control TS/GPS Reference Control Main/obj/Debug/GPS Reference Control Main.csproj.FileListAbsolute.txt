@@ -1,0 +1,16 @@
+C:\Users\Alyx\Documents\GPS Reference Control\GPS-Reference-Contol\GPS Reference Control Main\GPS Reference Control Main\bin\Debug\GPS Reference Control Main.exe.config
+C:\Users\Alyx\Documents\GPS Reference Control\GPS-Reference-Contol\GPS Reference Control Main\GPS Reference Control Main\bin\Debug\GPS Reference Control Main.exe.manifest
+C:\Users\Alyx\Documents\GPS Reference Control\GPS-Reference-Contol\GPS Reference Control Main\GPS Reference Control Main\bin\Debug\GPS Reference Control Main.application
+C:\Users\Alyx\Documents\GPS Reference Control\GPS-Reference-Contol\GPS Reference Control Main\GPS Reference Control Main\bin\Debug\GPS Reference Control Main.exe
+C:\Users\Alyx\Documents\GPS Reference Control\GPS-Reference-Contol\GPS Reference Control Main\GPS Reference Control Main\bin\Debug\GPS Reference Control Main.pdb
+C:\Users\Alyx\Documents\GPS Reference Control\GPS-Reference-Contol\GPS Reference Control Main\GPS Reference Control Main\obj\Debug\GPS Reference Control Main.csprojResolveAssemblyReference.cache
+C:\Users\Alyx\Documents\GPS Reference Control\GPS-Reference-Contol\GPS Reference Control Main\GPS Reference Control Main\obj\Debug\GPS_Reference_Control_Main.Form1.resources
+C:\Users\Alyx\Documents\GPS Reference Control\GPS-Reference-Contol\GPS Reference Control Main\GPS Reference Control Main\obj\Debug\GPS_Reference_Control_Main.Properties.Resources.resources
+C:\Users\Alyx\Documents\GPS Reference Control\GPS-Reference-Contol\GPS Reference Control Main\GPS Reference Control Main\obj\Debug\GPS Reference Control Main.csproj.GenerateResource.Cache
+C:\Users\Alyx\Documents\GPS Reference Control\GPS-Reference-Contol\GPS Reference Control Main\GPS Reference Control Main\obj\Debug\GPS Reference Control Main.exe.manifest
+C:\Users\Alyx\Documents\GPS Reference Control\GPS-Reference-Contol\GPS Reference Control Main\GPS Reference Control Main\obj\Debug\GPS Reference Control Main.application
+C:\Users\Alyx\Documents\GPS Reference Control\GPS-Reference-Contol\GPS Reference Control Main\GPS Reference Control Main\obj\Debug\GPS Reference Control Main.exe
+C:\Users\Alyx\Documents\GPS Reference Control\GPS-Reference-Contol\GPS Reference Control Main\GPS Reference Control Main\obj\Debug\GPS Reference Control Main.pdb
+C:\Users\Alyx\Documents\GPS Reference Control\GPS-Reference-Contol\GPS Reference Control TS\GPS Reference Control Main\bin\Debug\GPS Reference Control Main.exe.config
+C:\Users\Alyx\Documents\GPS Reference Control\GPS-Reference-Contol\GPS Reference Control TS\GPS Reference Control Main\obj\Debug\GPS Reference Control Main.exe
+C:\Users\Alyx\Documents\GPS Reference Control\GPS-Reference-Contol\GPS Reference Control TS\GPS Reference Control Main\obj\Debug\GPS Reference Control Main.pdb
