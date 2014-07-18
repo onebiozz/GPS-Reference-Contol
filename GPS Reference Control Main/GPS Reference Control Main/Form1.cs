@@ -16,5 +16,10 @@ namespace GPS_Reference_Control_Main
         {
             InitializeComponent();
         }
+
+        private void groupBox2_Enter(object sender, EventArgs e)
+        {
+
+        }
     }
 }
